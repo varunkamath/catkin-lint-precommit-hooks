@@ -1,0 +1,5 @@
+- id: catkin_lint
+  name: catkin_lint
+  description: catkin_lint will check your listfiles for style violations, common mistakes, and anti-patterns.
+  entry: catkin_lint
+  language: python
