@@ -1,0 +1,1 @@
+# catkin-lint-precommit-hooks
